@@ -1,0 +1,15 @@
+D:\Semester 3\19.11.2826 pemograman lanjut\1\Currency Apps\bin\Debug\Currency Apps.exe.config
+D:\Semester 3\19.11.2826 pemograman lanjut\1\Currency Apps\bin\Debug\Currency Apps.exe
+D:\Semester 3\19.11.2826 pemograman lanjut\1\Currency Apps\bin\Debug\Currency Apps.pdb
+D:\Semester 3\19.11.2826 pemograman lanjut\1\Currency Apps\obj\Debug\Currency Apps.csprojAssemblyReference.cache
+D:\Semester 3\19.11.2826 pemograman lanjut\1\Currency Apps\obj\Debug\MainWindow.g.cs
+D:\Semester 3\19.11.2826 pemograman lanjut\1\Currency Apps\obj\Debug\App.g.cs
+D:\Semester 3\19.11.2826 pemograman lanjut\1\Currency Apps\obj\Debug\Currency Apps_MarkupCompile.cache
+D:\Semester 3\19.11.2826 pemograman lanjut\1\Currency Apps\obj\Debug\Currency Apps_MarkupCompile.lref
+D:\Semester 3\19.11.2826 pemograman lanjut\1\Currency Apps\obj\Debug\MainWindow.baml
+D:\Semester 3\19.11.2826 pemograman lanjut\1\Currency Apps\obj\Debug\Currency Apps.g.resources
+D:\Semester 3\19.11.2826 pemograman lanjut\1\Currency Apps\obj\Debug\Currency_Apps.Properties.Resources.resources
+D:\Semester 3\19.11.2826 pemograman lanjut\1\Currency Apps\obj\Debug\Currency Apps.csproj.GenerateResource.cache
+D:\Semester 3\19.11.2826 pemograman lanjut\1\Currency Apps\obj\Debug\Currency Apps.csproj.CoreCompileInputs.cache
+D:\Semester 3\19.11.2826 pemograman lanjut\1\Currency Apps\obj\Debug\Currency Apps.exe
+D:\Semester 3\19.11.2826 pemograman lanjut\1\Currency Apps\obj\Debug\Currency Apps.pdb
